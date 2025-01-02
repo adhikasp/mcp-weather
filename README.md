@@ -2,6 +2,8 @@
 
 A simple MCP server that provides hourly weather forecasts using the AccuWeather API.
 
+<a href="https://glama.ai/mcp/servers/38044qgkou"><img width="380" height="200" src="https://glama.ai/mcp/servers/38044qgkou/badge" alt="Weather Server MCP server" /></a>
+
 ## Setup
 
 1. Install dependencies using `uv`:
